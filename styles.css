@@ -1,0 +1,271 @@
+body{
+    position: relative;
+    background:rgb(40, 40, 43);
+    align-items: center;
+  
+    
+}
+.main{
+    max-width: 1100px;
+}
+.navs p{
+    color:	rgb(32,178,170);
+    font-size: 20px;
+    font-weight: bold;
+    
+  
+    
+}
+.navs .big{
+    font-size: 30px;
+        
+}
+
+
+.navs ul,li{
+    list-style: none;
+}
+.navs a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 5px;
+    margin-right:10px ;
+  
+}
+.navs a:hover{
+ color: white;
+}
+
+
+@media (max-width:1024px){
+    
+
+    .ul-bg{
+       border-radius: 10px;
+       background-color:rgba(204,204,204,0.1);
+       text-align: left;
+       padding: 20px;
+       
+       
+       
+    }
+    ul li:hover{
+        background-color: rgba(204,204,204,0.3);
+        border-radius: 10px;
+        
+    }}
+   
+
+
+
+
+/*----ABOUT-ME----*/
+#about{
+    margin-top: 10px;
+}
+.about h1{
+    color: #fff;
+    font-size:60px;
+    font-weight: bold;
+    margin-left: 20px;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+}
+.about img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+}
+.about h2{
+    font-size: 25px;
+    color: #fff;
+    margin-left: 60px;
+}
+.about p{
+    font-size: 20px;
+    color:gray;
+    justify-content: center;
+    margin-left: 10px;
+    
+}
+.social-links a{
+    font-size: 30px;
+    margin: 5px;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.social-links a:hover{
+    color: rgb(30,144,255);
+    
+}
+
+.about .me p{
+  color:	rgb(192,192,192);
+  font-size:17px;
+  margin-top: 15px;
+}
+.about .big{
+    font-weight: bold;
+    color:white;
+    
+}
+.about .skill{
+    font-size: 15px;
+    background: gray;
+    border-radius: 5px;
+    margin-left: 10px;
+    color:purple;
+    font-weight:bold;
+    padding: 6px;
+    
+}
+
+/*----EXPERIENCE----*/
+#experience{
+    margin-top: 70px;
+}
+.experience h1{
+    color: #fff;
+    font-size:60px;
+    font-weight: bold;
+    margin-left: 20px;
+    padding: 10px;
+}
+.experience h2{
+    color:#ffffca;
+    font-size:20px;
+    margin-left: 20px;
+    padding: 2px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.experience h6{
+    color: #fff;
+    font-size:15px;
+    margin-left: 22px;
+   
+}
+.experience p{
+    color:rgb(192,192,192);
+    font-size:17px;
+    margin-left: 25px;
+ 
+}
+.experience .big{
+    border-bottom: 2px solid purple;
+    padding: 5px;
+}
+
+
+/*----PROJECTS---*/
+#projects{
+    margin-top: 10px;
+}
+.projects h1{
+    color: #fff;
+    font-size:60px;
+    font-weight: bold;
+    margin-left: 20px;
+    padding: 5px;
+   
+}
+.projects h5{
+    color:gray;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+    font-size: 20px;
+}
+.projects .project-box{
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    height: 470px;
+   
+}
+.projects .project-box img{
+    width: 300px;
+    height: 250px;
+    padding: 25px;
+    border-radius: 30px;
+}
+.projects .project-box h2{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.projects .project-box p{
+    color:rgb(192, 192, 192);
+    padding: 10px;
+    font-size: 17px;
+  
+}
+.projects .project-box a{
+   text-decoration: none;
+   font-size: 20px;
+   padding: 10px;
+   
+
+ 
+}
+
+/*-----BLOG----*/
+#blog{
+    margin-top: 50px;
+    height: 600px;
+}
+.blog h1{
+    color: #fff;
+    font-size:60px;
+    font-weight: bold;
+    margin-left: 20px;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+
+}
+
+/*----TAGS----*/
+#tags{
+    height: 600px;
+}
+.tags h1{
+    color: #fff;
+    font-size:60px;
+    font-weight: bold;
+    margin-left: 20px;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+   
+}
+
+/*-------INDEX------*/
+#index{
+    margin-top: 40px;
+    height: 700px;
+}
+.index h1{
+    color: #fff;
+    font-size:45px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.index p{
+    color:	rgb(192,192,192);
+    font-size:18px;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-bottom: 1px solid grey;
+    padding: 10px;
+    
+  }
+   .navs i{
+    font-size: 30px;
+    color: #fff;
+   
+   
+  }
+
+
+
