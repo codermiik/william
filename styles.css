@@ -247,12 +247,12 @@ body{
 }
 .index h1{
     color: #fff;
-    font-size:35px;
+    font-size:30px;
     font-weight: bold;
     margin-left: 20px;
 }
 .index p{
-    color:	rgb(192,192,192);
+    color:rgb(192,192,192);
     font-size:18px;
     margin-top: 15px;
     margin-left: 20px;
