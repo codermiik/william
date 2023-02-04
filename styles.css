@@ -182,13 +182,13 @@ body{
     border: 1px solid grey;
     border-radius: 5px;
     text-align: center;
-    height: 470px;
+    height: 480px;
    
 }
 .projects .project-box img{
-    width: 300px;
+    width: 280px;
     height: 250px;
-    padding: 25px;
+    padding: 21px;
     border-radius: 30px;
 }
 .projects .project-box h2{
